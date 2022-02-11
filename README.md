@@ -1,5 +1,7 @@
 # pycounts_tt
 
+Author: Tiffany Timbers
+
 Calculate word counts in a text file!
 
 ## Installation
